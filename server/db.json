@@ -1,0 +1,567 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "NeonPulse Wireless Headphones",
+      "price": 129.99,
+      "description": "Immerse yourself in pure sound with high-fidelity wireless audio, hybrid active noise cancellation, and a glowing neon battery status indicator. Lightweight design with memory foam earcups for all-day comfort.",
+      "category": "Tech",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.8,
+      "reviewsCount": 3,
+      "stock": 10,
+      "tags": [
+        "Bestseller",
+        "ANC Tech"
+      ],
+      "specifications": {
+        "Connectivity": "Bluetooth 5.2",
+        "Battery Life": "40 Hours",
+        "Driver Size": "40mm",
+        "Charging Port": "USB-C"
+      }
+    },
+    {
+      "id": 2,
+      "name": "ChromaClick Mechanical Keyboard",
+      "price": 89.99,
+      "description": "Express your style with custom RGB backlighting, clicky blue mechanical switches, and an aluminum top frame. Engineered with keycaps that never fade and full anti-ghosting rollover keys.",
+      "category": "Tech",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "stock": 6,
+      "tags": [
+        "Hot Deal",
+        "RGB Custom"
+      ],
+      "specifications": {
+        "Switch Type": "Blue Clicky",
+        "Form Factor": "Tenkeyless (80%)",
+        "Cable Type": "Detachable Braided Type-C",
+        "Material": "Anodized Aluminum"
+      }
+    },
+    {
+      "id": 3,
+      "name": "NovaFit Active Smartwatch",
+      "price": 199.99,
+      "description": "Track your vitals with a vibrant AMOLED display, built-in GPS, blood oxygen level sensors, and 12+ sport modes. Water-resistant up to 50 meters with a durable silicone strap.",
+      "category": "Tech",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.2,
+      "reviewsCount": 2,
+      "stock": 19,
+      "tags": [
+        "Smart Tracking"
+      ],
+      "specifications": {
+        "Display Size": "1.43\" AMOLED",
+        "Water Resistance": "5 ATM",
+        "GPS": "Dual-Band GNSS",
+        "Battery Standby": "Up to 10 Days"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nomad Canvas Adventure Backpack",
+      "price": 74.99,
+      "description": "Constructed from water-repellent heavy canvas with premium top-grain leather straps. Includes a padded laptop compartment, secure anti-theft back pocket, and double brass hardware accents.",
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "reviewsCount": 2,
+      "stock": 12,
+      "tags": [
+        "Durable",
+        "Classic"
+      ],
+      "specifications": {
+        "Volume": "25 Liters",
+        "Fits Laptop": "Up to 16 inches",
+        "Material": "Waxed Canvas & Leather",
+        "Weight": "1.1 kg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "CloudWalk Minimalist Leather Sneakers",
+      "price": 115,
+      "description": "Step into comfort. Handcrafted leather shoes featuring a soft breathable inner lining, cushioned orthotic insoles, and a durable natural rubber sole. Versatile design matching any outfit.",
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.9,
+      "reviewsCount": 1,
+      "stock": 6,
+      "tags": [
+        "Premium Comfort",
+        "New Release"
+      ],
+      "specifications": {
+        "Outer Material": "Full-Grain Cow Leather",
+        "Insole": "Ortholite Cushioning",
+        "Color": "Off-White & Cream",
+        "Origin": "Portugal"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Classic Vintage Denim Jacket",
+      "price": 64.99,
+      "description": "A timeless classic crafted from midweight 100% cotton denim. Complete with dual chest button pockets, handwarmer side pockets, and adjustable waist tabs for a customized retro silhouette.",
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.4,
+      "reviewsCount": 2,
+      "stock": 15,
+      "tags": [
+        "Unisex"
+      ],
+      "specifications": {
+        "Material": "100% Cotton Denim",
+        "Fit": "Relaxed / Classic",
+        "Wash Style": "Light Indigo Wash",
+        "Closure": "Metal Button Placket"
+      }
+    },
+    {
+      "id": 7,
+      "name": "TerraCotta Artisan Coffee Mug",
+      "price": 24.99,
+      "description": "Start your mornings with beauty. Each mug is hand-thrown on a potter's wheel with coarse clay and finished with a unique textured gradient glaze. Dishwasher and microwave safe.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.6,
+      "reviewsCount": 2,
+      "stock": 35,
+      "tags": [
+        "Artisan Handcrafted"
+      ],
+      "specifications": {
+        "Capacity": "350 ml (12 oz)",
+        "Material": "Stoneware Ceramic",
+        "Dishwasher Safe": "Yes",
+        "Microwave Safe": "Yes"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Aura Glow Amber Soy Candle",
+      "price": 19.5,
+      "description": "Fill your room with cozy warmth. Hand-poured soy wax infused with essential oils of dark amber, cedarwood, and vanilla bean. Clean burning wood wick creates a soothing crackling hearth sound.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "reviewsCount": 2,
+      "stock": 42,
+      "tags": [
+        "Cozy Vibe"
+      ],
+      "specifications": {
+        "Burn Time": "50 Hours",
+        "Wax Weight": "8.5 oz / 240g",
+        "Wick": "FSC Certified Wooden Wick",
+        "Fragrance Profile": "Woody Amber & Warm Vanilla"
+      }
+    },
+    {
+      "id": 9,
+      "name": "LumiSphere Glass Table Lamp",
+      "price": 79.99,
+      "description": "An elegant centerpiece lamp made of frosted milk glass sitting on a brass-plated base. Emits a soft, diffused glow. Includes a step-less touch dimmer button to set the perfect mood.",
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.3,
+      "reviewsCount": 1,
+      "stock": 9,
+      "tags": [
+        "Modernist Design"
+      ],
+      "specifications": {
+        "Light Source": "Dimmable LED G9 (Included)",
+        "Base Diameter": "6 inches",
+        "Globe Diameter": "8.5 inches",
+        "Controls": "3-Level Touch Sensor"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Botanica Organic Facial Serum",
+      "price": 38,
+      "description": "Rejuvenate your skin barrier with cold-pressed rosehip seed oil, vitamin C, and plant-derived squalane. Deeply hydrates, brightens dark spots, and reduces redness. Vegan and cruelty-free.",
+      "category": "Wellness",
+      "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.8,
+      "reviewsCount": 2,
+      "stock": 25,
+      "tags": [
+        "Clean Beauty",
+        "Hydration Boost"
+      ],
+      "specifications": {
+        "Volume": "30 ml (1 fl oz)",
+        "Skin Types": "All (Including Sensitive)",
+        "Key Actives": "Vitamin C, Squalane, Rosehip",
+        "Scent": "Natural Light Herbal"
+      }
+    },
+    {
+      "id": 11,
+      "name": "EcoBounce Cork Yoga Mat",
+      "price": 54.99,
+      "description": "A high-performance workout mat featuring a sustainably-harvested organic cork surface backed by natural tree rubber. Superior non-slip grip that increases when wet with sweat.",
+      "category": "Wellness",
+      "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.6,
+      "reviewsCount": 1,
+      "stock": 18,
+      "tags": [
+        "Eco Friendly"
+      ],
+      "specifications": {
+        "Dimensions": "72\" x 26\" x 5mm",
+        "Weight": "2.8 kg",
+        "Top Surface": "100% Organic Cork",
+        "Base Grid": "Natural Rubber (PVC Free)"
+      }
+    },
+    {
+      "id": 12,
+      "name": "ZenBrew Assorted Herbal Teas",
+      "price": 18,
+      "description": "Unwind with our premium collection of loose-leaf herbal teas. Contains 4 custom blends: Calming Chamomile Lavender, Energizing Ginger Lemongrass, Immunity Elderberry, and Peppermint Cool.",
+      "category": "Wellness",
+      "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=60",
+      "rating": 4.7,
+      "reviewsCount": 2,
+      "stock": 50,
+      "tags": [
+        "Organic Blends"
+      ],
+      "specifications": {
+        "Total Count": "4 tins (Approx. 60 Servings)",
+        "Organic Certified": "USDA Organic",
+        "Caffeine Level": "Caffeine-Free",
+        "Packaging": "Recyclable Decorative Tins"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "author": "Marcus Aurelius",
+      "rating": 5,
+      "comment": "Absolutely sublime audio depth. The neon charge indicator on the side is incredibly sharp and colorful, matching my setup perfectly. The noise-canceling block out all unwanted distraction.",
+      "date": "2026-05-14"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "author": "Ada Lovelace",
+      "rating": 4,
+      "comment": "Sound profile is excellent. Crisp highs and clean lows. Bluetooth hooks up instantly to both my laptop and phone.",
+      "date": "2026-06-01"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "author": "Dave Grohl",
+      "rating": 5,
+      "comment": "Rock solid build quality. I run in these, write music in these, and sleep in these. 10/10 battery life.",
+      "date": "2026-06-18"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "author": "Linus Torvalds",
+      "rating": 5,
+      "comment": "Excellent tactile feedback. The click is crisp and response times are negligible. Fully supported right out of the box. Highly recommended for code bashing.",
+      "date": "2026-05-20"
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "author": "Grace Hopper",
+      "rating": 4,
+      "comment": "A bit loud if you share an office space, but the feel is unmatched. Beautiful RGB gradients. Very premium weight.",
+      "date": "2026-06-10"
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "author": "Tony Hawk",
+      "rating": 4,
+      "comment": "Takes a beating and doesn't get scratched. GPS tracking is accurate when I am out skating. AMOLED screen is bright in direct sun.",
+      "date": "2026-05-18"
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "author": "Serena Williams",
+      "rating": 4,
+      "comment": "Very lightweight on the wrist. Activity metrics are robust. The battery charge easily lasts over a week.",
+      "date": "2026-06-08"
+    },
+    {
+      "id": 8,
+      "productId": 4,
+      "author": "John Muir",
+      "rating": 5,
+      "comment": "Rugged canvas material stands up to branches and dirt. Lots of capacity and fits comfortably on long walks in the wilderness. The brass buckles look great.",
+      "date": "2026-06-02"
+    },
+    {
+      "id": 9,
+      "productId": 4,
+      "author": "Indiana Jones",
+      "rating": 4,
+      "comment": "Good number of compartments for all tools of the trade. The leather straps are sturdy and hold heavy weights securely.",
+      "date": "2026-06-12"
+    },
+    {
+      "id": 10,
+      "productId": 5,
+      "author": "Coco Chanel",
+      "rating": 5,
+      "comment": "A masterpiece of casual minimalism. Extremely soft leather, neat stitching. A must-have basic.",
+      "date": "2026-06-15"
+    },
+    {
+      "id": 11,
+      "productId": 6,
+      "author": "James Dean",
+      "rating": 5,
+      "comment": "Cool, classic, comfortable. Feels broken-in right away. I wear this everywhere.",
+      "date": "2026-05-25"
+    },
+    {
+      "id": 12,
+      "productId": 6,
+      "author": "Steve McQueen",
+      "rating": 4,
+      "comment": "Nice sturdy denim. Good weight for autumn riding. Pockets are well-sized.",
+      "date": "2026-06-05"
+    },
+    {
+      "id": 13,
+      "productId": 7,
+      "author": "Jane Austen",
+      "rating": 5,
+      "comment": "A mug of exceptional aesthetic virtue. Keeps tea hot for a prolonged reading session and delights the hand with its rustic texture.",
+      "date": "2026-06-10"
+    },
+    {
+      "id": 14,
+      "productId": 7,
+      "author": "C.S. Lewis",
+      "rating": 4,
+      "comment": "Hefty clay body. Simple glazes. Exactly what a proper morning brew requires.",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 15,
+      "productId": 8,
+      "author": "Virginia Woolf",
+      "rating": 5,
+      "comment": "The crackling wood wick provides a soothing, meditative soundscape. The amber notes are rich and deep, filling a room of one's own beautifully.",
+      "date": "2026-06-07"
+    },
+    {
+      "id": 16,
+      "productId": 8,
+      "author": "Edgar Allan Poe",
+      "rating": 4,
+      "comment": "Enchanting flicker. The woody vanilla casting long shadows against the walls of my study.",
+      "date": "2026-06-16"
+    },
+    {
+      "id": 17,
+      "productId": 9,
+      "author": "Frank Lloyd Wright",
+      "rating": 4,
+      "comment": "Form follows light. Soft spherical lighting that is beautifully diffuse. Plinth sits elegantly on low desks.",
+      "date": "2026-06-14"
+    },
+    {
+      "id": 18,
+      "productId": 10,
+      "author": "Cleopatra VII",
+      "rating": 5,
+      "comment": "A true elixir. Absorbs quickly, leaving the skin glowing and nourished like gold. A staple of my evening routine.",
+      "date": "2026-06-09"
+    },
+    {
+      "id": 19,
+      "productId": 10,
+      "author": "Marie Curie",
+      "rating": 5,
+      "comment": "I analyzed the active elements; squalane and vitamin C show remarkable hydrating efficacy. Highly recommended hydration chemistry.",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 20,
+      "productId": 11,
+      "author": "Mahatma Gandhi",
+      "rating": 5,
+      "comment": "A beautiful, natural cork surface. Durable, earthy, and respects our environment. Grip is excellent.",
+      "date": "2026-06-11"
+    },
+    {
+      "id": 21,
+      "productId": 12,
+      "author": "Lao Tzu",
+      "rating": 5,
+      "comment": "Drinking a bowl of this chamomile is to experience quiet harmony. Simple, gentle, and relaxing.",
+      "date": "2026-06-03"
+    },
+    {
+      "id": 22,
+      "productId": 12,
+      "author": "Shennong",
+      "rating": 4,
+      "comment": "A pleasant variety of therapeutic herbal compounds. Pure clean tastes. Very comforting.",
+      "date": "2026-06-15"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "ORD-6821",
+      "date": "2026-06-20T14:32:00.000Z",
+      "items": [
+        {
+          "productId": 1,
+          "name": "NeonPulse Wireless Headphones",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+          "quantity": 1
+        },
+        {
+          "productId": 7,
+          "name": "TerraCotta Artisan Coffee Mug",
+          "price": 24.99,
+          "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&auto=format&fit=crop&q=60",
+          "quantity": 2
+        }
+      ],
+      "shipping": {
+        "name": "Alex Mercer",
+        "email": "alex.m@example.com",
+        "address": "742 Evergreen Terrace",
+        "city": "Springfield",
+        "zip": "97477"
+      },
+      "payment": {
+        "cardBrand": "Visa",
+        "lastFour": "4242"
+      },
+      "subtotal": 179.97,
+      "tax": 14.4,
+      "shippingCost": 5.99,
+      "total": 200.36,
+      "status": "Shipped"
+    },
+    {
+      "id": "ORD-2511",
+      "date": "2026-06-22T06:17:04.250Z",
+      "items": [
+        {
+          "productId": 1,
+          "name": "NeonPulse Wireless Headphones",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+          "quantity": 1
+        }
+      ],
+      "shipping": {
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "address": "123",
+        "city": "cyber city",
+        "zip": "90210"
+      },
+      "payment": {
+        "cardBrand": "Visa",
+        "lastFour": "4444"
+      },
+      "subtotal": 129.99,
+      "tax": 10.4,
+      "shippingCost": 0,
+      "total": 140.39,
+      "status": "Processing"
+    },
+    {
+      "id": "ORD-5149",
+      "date": "2026-06-22T06:19:12.093Z",
+      "items": [
+        {
+          "productId": 1,
+          "name": "NeonPulse Wireless Headphones",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+          "quantity": 2
+        }
+      ],
+      "shipping": {
+        "name": "Jane Doe",
+        "email": "jane@example.com",
+        "address": "456 Cyber Blvd",
+        "city": "Retro Ville",
+        "zip": "54321"
+      },
+      "payment": {
+        "cardBrand": "Mastercard",
+        "lastFour": "4444"
+      },
+      "subtotal": 259.98,
+      "tax": 20.8,
+      "shippingCost": 0,
+      "total": 280.78,
+      "status": "Shipped"
+    },
+    {
+      "id": "ORD-5091",
+      "date": "2026-09-06T18:00:10.086Z",
+      "items": [
+        {
+          "productId": 2,
+          "name": "ChromaClick Mechanical Keyboard",
+          "price": 89.99,
+          "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=60",
+          "quantity": 2
+        },
+        {
+          "productId": 3,
+          "name": "NovaFit Active Smartwatch",
+          "price": 199.99,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=60",
+          "quantity": 1
+        },
+        {
+          "productId": 1,
+          "name": "NeonPulse Wireless Headphones",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=60",
+          "quantity": 1
+        }
+      ],
+      "shipping": {
+        "name": "ho",
+        "email": "ho@gmail.com",
+        "address": "123",
+        "city": "cybercity",
+        "zip": "90210"
+      },
+      "payment": {
+        "cardBrand": "Visa",
+        "lastFour": "1111"
+      },
+      "subtotal": 509.96,
+      "tax": 40.8,
+      "shippingCost": 0,
+      "total": 550.76,
+      "status": "Processing"
+    }
+  ]
+}
